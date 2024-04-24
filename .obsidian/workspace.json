@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9f6af4ac0ef320f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9faea8c1139c3266",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d767f038d97b7d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7288c19e4310695d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c3.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74e35addaff84ffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca78eb055684a3dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e2d2afc03e035fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4d7306d832bf810",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8220c68f4f266269",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c33cd041ba13264",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4a50fc99e560cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21fd37b0c782a09c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c17aa365b534a68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "c3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33a70c55ea2d311a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "714c7697065b6603",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "c3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7288c19e4310695d",
+  "lastOpenFiles": [
+    "c4.md",
+    "c3.md",
+    "resources/029.jpg",
+    "resources/029.jpg.crdownload",
+    "resources/028.jpg",
+    "resources/028.jpg.crdownload",
+    "c2.md",
+    "resources/027.jpg",
+    "resources/027.jpg.crdownload",
+    "resources/026.png",
+    "resources/026.png.crdownload",
+    "resources/025.png",
+    "resources/025.png.crdownload",
+    "resources/024.png",
+    "resources/024.png.crdownload",
+    "resources/023.jpg",
+    "resources/023.jpg.crdownload",
+    "resources/022.png",
+    "resources/022.png.crdownload",
+    "resources/021.png",
+    "resources/021.png.crdownload",
+    "resources/020.png",
+    "resources/020.png.crdownload",
+    "c1.md"
+  ]
+}
