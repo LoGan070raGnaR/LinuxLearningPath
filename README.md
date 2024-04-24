@@ -11,7 +11,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Introduction
 - The Linux Foundation
 - Course Linux Requirements
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 2. Linux Philosophy and Concepts**
@@ -21,7 +20,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Linux Community
 - Linux Terminology
 - Linux Distributions
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 3. Linux Basics and System Startup**
@@ -30,7 +28,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Kernel, init and Services
 - Linux Filesystem Basics
 - Linux Distribution Installation
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 4. Graphical Interface**
@@ -38,7 +35,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Graphical Desktop
 - Session Management
 - Basic Operations
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 5. System Configuration from the Graphical Interface**
@@ -46,7 +42,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - System, Display, Date and Time Settings
 - Network Manager
 - Installing and Updating Software
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 6. Common Applications**
@@ -55,7 +50,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Productivity and Development Applications
 - Multimedia Applications
 - Graphics Editors and Utilities
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 7. Command Line Operations**
@@ -65,7 +59,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Working with Files
 - Searching for Files
 - Installing Software
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 8. Finding Linux Documentation**
@@ -75,7 +68,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - GNU Info
 - The --help Option and help Command
 - Other Documentation Sources
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 9. Processes**
@@ -84,7 +76,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Process Metrics and Process Control
 - Listing Processes: ps and top
 - Starting Processes in the Future
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 10. File Operations**
@@ -93,14 +84,12 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Filesystem Architecture
 - Comparing Files and File Types
 - Backing Up and Compressing Data
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 11. Text Editors**
 - Introduction
 - Basic Editors: nano and gedit
 - More Advanced Editors: vi and emacs
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 12. User Environment**
@@ -109,7 +98,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Environment Variables
 - Recalling Previous Commands
 - File Permissions
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 13. Manipulating Text**
@@ -120,7 +108,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - File Manipulation Utilities
 - grep and strings
 - Miscellaneous Text Utilities
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 14. Network Operations**
@@ -129,7 +116,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Networking Configuration and Tools
 - Browsers, wget and curl
 - Transferring Files
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 15. The Bash Shell and Basic Scripting**
@@ -137,7 +123,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Features and Capabilities
 - Syntax
 - Constructs
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 16. More on Bash Shell Scripting**
@@ -147,7 +132,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Looping Constructs
 - Script Debugging
 - Some Additional Useful Techniques
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 17. Printing**
@@ -155,7 +139,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - Configuration
 - Printing Operations
 - Manipulating Postscript and PDF Files
-- Knowledge Check (Verified Certificate track only)
 - Summary
 
 **Chapter 18. Local Security Principles**
@@ -165,5 +148,4 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 - sudo, Process Isolation, Limiting Hardware Access and Keeping System Current
 - Working with passwords
 - Securing the Boot Process and Hardware Resources
-- Knowledge Check (Verified Certificate track only)
 - Summary
