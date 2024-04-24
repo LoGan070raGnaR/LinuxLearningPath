@@ -4,9 +4,6 @@ New to Linux or need an advanced refresher? Gain comprehensive Linux knowledge s
 
 ## Outline
 
-**Welcome!**
-- Welcome!
-
 **Chapter 1. The Linux Foundation**
 - Introduction
 - The Linux Foundation
